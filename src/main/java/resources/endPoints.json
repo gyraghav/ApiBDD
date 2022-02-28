@@ -1,0 +1,10 @@
+{
+	"users": {
+		"get": "/users/{id}",
+		"update": "/users",
+		"delete": "/users/2"
+	}
+}
+
+  
+  

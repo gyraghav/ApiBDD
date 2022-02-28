@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="3.677788">
+<testcase classname="Testing some examples on RESREQ" name="Verify create user" time="3.677788">
+<system-out><![CDATA[When I am able to get the following end point...............................passed
+And I send request for create user with below details.......................passed
+Then I should see user created successfully.................................passed
+When I am able to get the following API endpoint............................passed
+And I send get request for created user.....................................passed
+Then I should see newly created user details in response....................passed
+Then I should see user fetched successfully.................................passed
+]]></system-out>
+</testcase>
+</testsuite>
